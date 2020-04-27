@@ -1,0 +1,16 @@
+
+isquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(³˜8ó¸ôğ-
+_squid:S3518•";Make sure "count" can't be zero before doing this division.(Ó´§Ìıÿÿÿÿ8Üà…æñ-
+Zsquid:S2696–"6Make the enclosing method "static" or remove this set.(Ç™«Öúÿÿÿÿ8ºêÚ–.
+©%squid:RedundantThrowsDeclarationCheckP"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÌÊóùşÿÿÿÿ8úÒİöğ-
+rsquid:S00100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÊóùşÿÿÿÿ8ó¸ôğ-
+nsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(‡â€êüÿÿÿÿ8ó¸ôğ-
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ÙÛ³»8ó¸ôğ-
+hsquid:CommentedOutCodeLinem"<This block of commented-out lines of code should be removed.(À¦›.8ó¸ôğ-
+Fsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó¸ôğ-
+Zsquid:S2696•"6Make the enclosing method "static" or remove this set.(Ó´§Ìıÿÿÿÿ8ºêÚ–.
+isquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(‰‚¦Ÿ8‰õÎøğ-
+isquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(Á˜„–8ó¸ôğ-
+}squid:S1450#"ZRemove the "totalPayoff" field and declare it as a local variable in the relevant methods.(×û×…ÿÿÿÿÿ8ó¸ôğ-
+nsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(¬æÉÎøÿÿÿÿ8ó¸ôğ-

@@ -1,0 +1,45 @@
+
+:squid:S1643K"Use a StringBuilder instead.(Æ„®œ8ó¸ôğ-
+V
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ÆÀûı8öÅöğ-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(š×ƒŸıÿÿÿÿ8ó¸ôğ-
+Asquid:S2119m"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ó¸ôğ-
+qsquid:S1192#"NDefine a constant instead of duplicating this literal "\t\t\t Agent " 4 times.( ÕìÛşÿÿÿÿ8ó¸ôğ-
+?squid:S1643I"Use a StringBuilder instead.(×Öïúÿÿÿÿ8ó¸ôğ-
+?squid:S1643]"Use a StringBuilder instead.(ĞñÖåûÿÿÿÿ8ó¸ôğ-
+@squid:S1659U""Declare "dstr" on a separate line.(¯ÆÖ8ó¸ôğ-
+@squid:S1659U""Declare "mstr" on a separate line.(¯ÆÖ8ó¸ôğ-
+gsquid:UnusedPrivateMethod‡";Remove this unused private "getRandomNumberInRange" method.(Ş¦å^8ş„ÜÀ—.
+?squid:S1643["Use a StringBuilder instead.(Ìò ¯úÿÿÿÿ8ó¸ôğ-
+Gsquid:S1481F")Remove this unused "mstr" local variable.(¯ÆÖ8ó¸ôğ-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­Ğ‡®8ş„ÜÀ—.
+Bsquid:S2119ˆ"Save and re-use this "Random".(¼Ú’¸şÿÿÿÿ8ş„ÜÀ—.
+Gsquid:S1481F")Remove this unused "cstr" local variable.(¯ÆÖ8ó¸ôğ-
+V
+squid:S106^"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ó¸ôğ-
+@squid:S1659F""Declare "mstr" on a separate line.(¯ÆÖ8ó¸ôğ-
+nsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(æ†óÜøÿÿÿÿ8•¬øğ-
+:squid:S1643M"Use a StringBuilder instead.(ãâ”±8ó¸ôğ-
+jsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(ê¥Ó£8ş„ÜÀ—.
+Gsquid:S1481U")Remove this unused "dstr" local variable.(¯ÆÖ8ó¸ôğ-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.( ÕìÛşÿÿÿÿ8ó¸ôğ-
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ü˜Òâşÿÿÿÿ8ó¸ôğ-
+isquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(—¾ÿR8ş„ÜÀ—.
+qsquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(‹Àåã8ş„ÜÀ—.
+isquid:S1192$"KDefine a constant instead of duplicating this literal "s Payoff= " 4 times.(ìÆé´8ó¸ôğ-
+ˆsquid:S2234{"kParameters to updateInteractedOpponents have the same names but not the same order as the method arguments.(Ÿï‡F8¢·ÜÛ–.
+Gsquid:S1481U")Remove this unused "cstr" local variable.(¯ÆÖ8ó¸ôğ-
+gsquid:S1192$"IDefine a constant instead of duplicating this literal " \t and " 4 times.(ìÆé´8ó¸ôğ-
+?squid:S1643Y"Use a StringBuilder instead.(²æšãùÿÿÿÿ8ó¸ôğ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(àòÅÑúÿÿÿÿ8®œöğ-
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Ë¿ü8ó¸ôğ-
+nsquid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(ÓŸ©¥ùÿÿÿÿ8šŸŸöğ-
+Gsquid:S1481F")Remove this unused "dstr" local variable.(¯ÆÖ8ó¸ôğ-
+Gsquid:S1481U")Remove this unused "mstr" local variable.(¯ÆÖ8ó¸ôğ-
+‹squid:S2234‰"gParameters to updatePlayedOpponents have the same names but not the same order as the method arguments.(¸Ú”¤øÿÿÿÿ8ş„ÜÀ—.
+@squid:S1659F""Declare "dstr" on a separate line.(¯ÆÖ8ó¸ôğ-
+>squid:S1659l" Declare "p2" on a separate line.(´øÀÌ8ó¸ôğ-
